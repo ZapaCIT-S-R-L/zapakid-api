@@ -13,21 +13,21 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "jose": "6.2.13"
+    "jose": "6.2.14"
   },
   "devDependencies": {
-    "@cloudflare/vitest-plugin": "1.4.9",
-    "@cloudflare/workers-types": "5.20261027.1",
+    "@cloudflare/vitest-plugin": "1.4.11",
+    "@cloudflare/workers-types": "5.20261030.1",
     "@eslint/js": "10.0.1",
-    "@redocly/cli": "2.71.2",
-    "@types/node": "26.6.5",
-    "eslint": "10.13.0",
+    "@redocly/cli": "2.72.1",
+    "@types/node": "26.6.6",
+    "eslint": "10.14.0",
     "globals": "17.13.0",
     "prettier": "3.9.10",
-    "typescript": "6.0.3",
+    "typescript": "7.0.2",
     "typescript-eslint": "8.72.1",
     "vitest": "5.0.5",
-    "wrangler": "4.154.0"
+    "wrangler": "4.156.0"
   },
   "license": "AGPL-3.0-only",
   "engines": {
